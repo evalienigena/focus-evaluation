@@ -1,0 +1,24 @@
+{
+  "name": "focus-evaluation",
+  "version": "1.0.0",
+  "description": "Cloud Integration Engineer Test for Focus ITO",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evalienigena/focus-evaluation.git"
+  },
+  "author": "Eva Arias",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evalienigena/focus-evaluation/issues"
+  },
+  "homepage": "https://github.com/evalienigena/focus-evaluation#readme",
+  "devDependencies": {
+    "eslint": "^8.33.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.6.0"
+  }
+}
