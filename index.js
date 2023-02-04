@@ -27,7 +27,7 @@ async function run() {
     );
 
     // Record the Contact to the CRM
-    const contact = new Contact(accessToken, '[TEST] Eva', 'Arias');
+    const contact = new Contact(accessToken, 'Eva', 'Arias');
     const apiResponse = await contact.register();
 
     // Log the API Response
