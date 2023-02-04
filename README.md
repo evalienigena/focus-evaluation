@@ -18,7 +18,7 @@ My name's Eva Arias. I'm a 25 years old Software Engineer with 3+ years of devel
   - Development of process automation scripts/programs using NodeJS + CheerioJS (for web scraping purposes).
   - SQL and No-SQL Databases, writing Python scripts to extract, transform and load data for further analysis.
 
-I look forward to hear more from you and any feedback you may have.
+I look forward to hearing more from you and any feedback you may have.
 
 Thanks,
 
@@ -60,3 +60,6 @@ Use `node` to run the script
 > node index
 ```
 
+You will see the API Response on the console, like so:
+
+![screenshot.png](https://raw.githubusercontent.com/evalienigena/focus-evaluation/main/images/screenshot.png)
