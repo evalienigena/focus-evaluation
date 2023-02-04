@@ -14,9 +14,9 @@ My name's Eva Arias. I'm a 25 years old Software Engineer with 3+ years of devel
 - **Experienced with:**
   - Building web applications using Javascript, NodeJS, Amazon Web Services.
     - Usage of web frameworks such as VueJS and NuxtJS.
-    - Usage of AWS to build an scalable service-oriented architecture
-  - Developing of process automation scripts/programs using NodeJS + CheerioJS (for web scraping purposes).
-  - SQL and No-SQL Databases, writing Python scripts for the extraction, transformation and loading of data for analysis.
+    - Usage of AWS to build scalable service-oriented architectures.
+  - Development of process automation scripts/programs using NodeJS + CheerioJS (for web scraping purposes).
+  - SQL and No-SQL Databases, writing Python scripts to extract, transform and load data for further analysis.
 
 I look forward to hear more from you and any feedback you may have.
 
